@@ -207,6 +207,7 @@ the same published contribution rules.
 - [Snyk Agent Scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents and MCP servers. Detects vulnerabilities in tool configurations, permissions, and data flows.
 
 <a id="fairness--bias-auditing"></a>
+- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Zero-dependency static security scanner for Agent Skills, SKILL.md files, and MCP configurations; flags prompt injection, unsafe shell behavior, credential access, privilege escalation, and data-exfiltration patterns without executing the target.
 
 ## Fairness & Bias Auditing
 
